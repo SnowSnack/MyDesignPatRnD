@@ -1,0 +1,6 @@
+C:\Users\SNCL\source\repos\MyDesignPatRnD\MyDesignPatRnD\bin\Debug\MyDesignPatRnD.exe.config
+C:\Users\SNCL\source\repos\MyDesignPatRnD\MyDesignPatRnD\bin\Debug\MyDesignPatRnD.exe
+C:\Users\SNCL\source\repos\MyDesignPatRnD\MyDesignPatRnD\bin\Debug\MyDesignPatRnD.pdb
+C:\Users\SNCL\source\repos\MyDesignPatRnD\MyDesignPatRnD\obj\Debug\MyDesignPatRnD.csprojAssemblyReference.cache
+C:\Users\SNCL\source\repos\MyDesignPatRnD\MyDesignPatRnD\obj\Debug\MyDesignPatRnD.exe
+C:\Users\SNCL\source\repos\MyDesignPatRnD\MyDesignPatRnD\obj\Debug\MyDesignPatRnD.pdb
