@@ -11,8 +11,12 @@ namespace MyDesignPatRnD
         //test
         static void Main(string[] args)
         {
+            //Adapt
             AdapterTestZone at = new AdapterTestZone();
             at.test();
+
+            //
+
         }
     }
 }
